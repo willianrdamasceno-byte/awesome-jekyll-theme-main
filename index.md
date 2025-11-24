@@ -8,11 +8,11 @@ image: /assets/images/main.avif
 main_content: >
   # Mente em modo root.
 
-Sou o administrador deste site, mas pode me chamar simplesmente de o cara que aperta botões e espera que funcione.
+**Sou o administrador deste site**, mas pode me chamar simplesmente de o cara que aperta botões e espera que funcione.
 Meu nome completo? Melhor não, não faz diferença e ainda economiza caracteres. Criei este blog só por diversão,
 sem planos de ficar rico, mas se o universo quiser eu aceito. 
 Se curtir minhas publicações, me siga nas redes sociais.
-Prometo entretenimento, surtos criativos e zero arrependimentos!
+Prometo entretenimento, **surtos criativos e zero arrependimentos!**
 
 footer: true
 permalink: /

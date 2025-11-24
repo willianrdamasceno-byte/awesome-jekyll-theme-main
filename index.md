@@ -9,8 +9,8 @@ main_content: >
   # Mente em modo root.
 
 
-  **Solum remis procul; poenam, corde?** Te quoque facti agros, querorque,
-  excutis
+  **Sou o administrador deste site,** mas pode me chamar simplesmente de o cara que
+  aperta botões e espera que funcione.
 
   quoque vestigia substricta caelestique posuisset litore: suaque. **Et
   limine**, et

@@ -6,10 +6,10 @@ description: >-
   en diversas etapas del ciclo de desarrollo de aplicaciones.
 image: /assets/images/main.avif
 main_content: >
-  # Mente em modo root.
+  # Hello Friend. Hello World.
 
 
-**Solum remis procul; poenam, corde?** Te quoque facti agros, querorque,
+  **Solum remis procul; poenam, corde?** Te quoque facti agros, querorque,
   excutis
 
   quoque vestigia substricta caelestique posuisset litore: suaque. **Et

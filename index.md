@@ -9,15 +9,14 @@ main_content: >
   # Hello Friend. Hello World.
 
 
-  **Solum remis procul; poenam, corde?** Te quoque facti agros, querorque,
-  excutis
+  **Sou o administrador deste site** mas pode me chamar simplesmente de 
+  o cara que aperta botões e espera que funcione.
+  
 
-  quoque vestigia substricta caelestique posuisset litore: suaque. **Et
-  limine**, et
+  Meu nome completo? Melhor não, não faz diferença e ainda economiza caracteres. Criei este blog só por diversão, sem planos de ficar rico, mas se o universo quiser eu aceito.**,
 
-  nimium nec io diemque vocat spicea et horror licet leto fortuna suis cum.
-  **Lecto viae, quod Naxos tumulos quoque.** Et illo de nati iuvenci oris habet,
-  perdidit parantur! **#Rails #Ruby #Python #HTML #Css #Js #AWS**
+Se curtir minhas publicações, me siga nas redes sociais. Prometo entretenimento, 
+surtos criativos e zero arrependimentos!**
 footer: true
 permalink: /
 ---

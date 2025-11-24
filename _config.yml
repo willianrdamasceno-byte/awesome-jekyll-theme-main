@@ -38,8 +38,8 @@ plugins:
 ##
 # Polyglot configuration
 ##
-languages: ["en"]
-default_lang: "en"
+languages: ["pt-BR"]
+default_lang: "pt-BR"
 exclude_from_localization: ["javascript", "images", "css", "public"]
 parallel_localization: true
 

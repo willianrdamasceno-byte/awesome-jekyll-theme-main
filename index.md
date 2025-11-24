@@ -15,8 +15,6 @@ Meu nome completo? **Melhor não**, não faz diferença e ainda economiza caract
 Criei este blog só por diversão, sem planos de ficar rico, mas se o universo quiser eu aceito.
 
 **Se curtir minhas publicações**, me siga nas redes sociais. Prometo entretenimento, surtos criativos e zero arrependimentos!**
-
-
 footer: true
 permalink: /
 ---

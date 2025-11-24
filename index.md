@@ -9,16 +9,12 @@ main_content: >
   # Mente em modo root.
 
 
-  **Sou o administrador deste site,** mas pode me chamar simplesmente de o cara que
-  aperta botões e espera que funcione.
+Sou o administrador deste site, mas pode me chamar simplesmente de o cara que aperta botões e espera que funcione.
+Meu nome completo? Melhor não, não faz diferença e ainda economiza caracteres. Criei este blog só por diversão,
+sem planos de ficar rico, mas se o universo quiser eu aceito. 
+Se curtir minhas publicações, me siga nas redes sociais.
+Prometo entretenimento, surtos criativos e zero arrependimentos!
 
-  Meu nome completo? Melhor não, não faz diferença **e ainda
-  economiza caracteres.
-  limine**, et
-
-  nimium nec io diemque vocat spicea et horror licet leto fortuna suis cum.
-  **Lecto viae, quod Naxos tumulos quoque.** Et illo de nati iuvenci oris habet,
-  perdidit parantur! **#Rails #Ruby #Python #HTML #Css #Js #AWS**
 footer: true
 permalink: /
 ---
